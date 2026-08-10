@@ -1,2 +1,3 @@
-# Aplicacion-triple-ten
-Aplicación Triple Ten
+pandas
+scipy
+streamlit
